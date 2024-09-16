@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armando Ciobanu</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 
 - 🔭 I’m currently working on **A machine learning model which can distinguish between recyclable and non-recyclable waste**
